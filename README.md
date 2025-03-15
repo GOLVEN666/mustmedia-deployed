@@ -1,0 +1,2 @@
+# mustmedia-deployed
+.vers
